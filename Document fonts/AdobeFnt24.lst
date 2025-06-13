@@ -1,0 +1,124 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-ExtraLight
+FamilyName:Montserrat
+StyleName:ExtraLight
+FullName:Montserrat ExtraLight
+MenuName:Montserrat ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\alexz\Documents\Work\Wickey\Smart King & Queen Manual - V100 - Rev8 Folder\Document fonts\Montserrat-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:330488
+FileModTime:1742474447
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat ExtraLight
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Regular
+FamilyName:Montserrat
+StyleName:Regular
+FullName:Montserrat Regular
+MenuName:Montserrat
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\alexz\Documents\Work\Wickey\Smart King & Queen Manual - V100 - Rev8 Folder\Document fonts\Montserrat-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:330948
+FileModTime:1742474447
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:LondrinaBlack-Regular
+FamilyName:Londrina Black
+StyleName:Regular
+FullName:Londrina Black
+MenuName:Londrina Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\alexz\Documents\Work\Wickey\Smart King & Queen Manual - V100 - Rev8 Folder\Document fonts\Tipos Pereira - LondrinaBlack-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:53536
+FileModTime:1746447114
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Londrina Black
+NameArray:0,Win,1,Londrina Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\alexz\Documents\Work\Wickey\Smart King & Queen Manual - V100 - Rev8 Folder\Document fonts\arial.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:1047208
+FileModTime:1711956127
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial
+NameArray:0,Win,1,Arial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\alexz\Documents\Work\Wickey\Smart King & Queen Manual - V100 - Rev8 Folder\Document fonts\arialbd.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:991572
+FileModTime:1711956159
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Arial Bold
+NameArray:0,Win,1,Arial
+%EndFont
+
