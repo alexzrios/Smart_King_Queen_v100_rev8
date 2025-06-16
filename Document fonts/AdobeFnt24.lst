@@ -11,13 +11,13 @@ FullName:Montserrat ExtraLight
 MenuName:Montserrat ExtraLight
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\alexz\Documents\Work\Wickey\Smart King & Queen Manual - V100 - Rev8 Folder\Smart_King_Queen_v100_rev8\Document fonts\Montserrat-ExtraLight.ttf
+OutlineFileName:D:\Wickey\2025\Smart_King_Queen_v100_rev8\Document fonts\Montserrat-ExtraLight.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:330488
-FileModTime:1742474447
+FileModTime:1749989666
 WeightClass:250
 WidthClass:5
 AngleClass:0
@@ -35,13 +35,13 @@ FullName:Montserrat Regular
 MenuName:Montserrat
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\alexz\Documents\Work\Wickey\Smart King & Queen Manual - V100 - Rev8 Folder\Smart_King_Queen_v100_rev8\Document fonts\Montserrat-Regular.ttf
+OutlineFileName:D:\Wickey\2025\Smart_King_Queen_v100_rev8\Document fonts\Montserrat-Regular.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:330948
-FileModTime:1742474447
+FileModTime:1749989666
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -58,7 +58,7 @@ FullName:Londrina Black
 MenuName:Londrina Black
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\alexz\Documents\Work\Wickey\Smart King & Queen Manual - V100 - Rev8 Folder\Smart_King_Queen_v100_rev8\Document fonts\Tipos Pereira - LondrinaBlack-Regular.otf
+OutlineFileName:D:\Wickey\2025\Smart_King_Queen_v100_rev8\Document fonts\Tipos Pereira - LondrinaBlack-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -66,7 +66,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:53536
-FileModTime:1746447114
+FileModTime:1749989666
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -84,13 +84,13 @@ FullName:Arial
 MenuName:Arial
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\alexz\Documents\Work\Wickey\Smart King & Queen Manual - V100 - Rev8 Folder\Smart_King_Queen_v100_rev8\Document fonts\arial.ttf
+OutlineFileName:D:\Wickey\2025\Smart_King_Queen_v100_rev8\Document fonts\arial.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:1047208
-FileModTime:1711956127
+FileModTime:1749989666
 WeightClass:400
 WidthClass:5
 AngleClass:0
@@ -108,13 +108,13 @@ FullName:Arial Bold
 MenuName:Arial
 StyleBits:2
 WritingScript:Roman
-OutlineFileName:C:\Users\alexz\Documents\Work\Wickey\Smart King & Queen Manual - V100 - Rev8 Folder\Smart_King_Queen_v100_rev8\Document fonts\arialbd.ttf
+OutlineFileName:D:\Wickey\2025\Smart_King_Queen_v100_rev8\Document fonts\arialbd.ttf
 DataFormat:sfntData
 hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:991572
-FileModTime:1711956159
+FileModTime:1749989666
 WeightClass:700
 WidthClass:5
 AngleClass:0
